@@ -1,8 +1,6 @@
-Advanced Statistics Toolkit 📊
-Welcome to the Advanced Statistics Toolkit! This repository is dedicated to exploring the depths of data with advanced statistical methods. Whether you're a seasoned data scientist or just diving into the world of statistics, you'll find valuable resources and tools here to enhance your analytical skills.
-
-Features
-Bayesian Inference: Understand the principles and applications of Bayesian statistics.
-Machine Learning Models: Explore advanced machine learning techniques for predictive analytics.
-Probability Distributions: Dive deep into various probability distributions and their real-world implications.
-Hypothesis Testing: Master hypothesis testing methods to make informed decisions based on data.
+Enhanced statistical foundation with implementations for ANOVA and Chi-Square test. (e.g. ANOVA, Chi-Square test)."
+Improved data exploration with advanced visualizations.
+Refactored code for clarity and maintainability in statistical functions and visualizations.
+Added unit tests for core statistical functions to ensure code reliability.
+Updated documentation for advanced statistical concepts and implemented functions.
+![image](https://github.com/kameshraj333/Projects/assets/162411498/d35dbf76-d9c4-4d9f-b9fd-56f48467338f)
