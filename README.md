@@ -1,3 +1,5 @@
+ADVANCED STATISTICS
+
 Enhanced statistical foundation with implementations for ANOVA and Chi-Square test. (e.g. ANOVA, Chi-Square test)."
 Improved data exploration with advanced visualizations.
 Refactored code for clarity and maintainability in statistical functions and visualizations.
